@@ -1,4 +1,4 @@
-![Meetup](https://github.com/DiSCoBGU/Preprocessing/blob/master/meet2.png)
+![Meetup](https://github.com/DiSCoBGU/Preprocessing/raw/master/meet2.png)
 
 For the Second meetup on 8th April
 
