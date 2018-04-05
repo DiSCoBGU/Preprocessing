@@ -1,3 +1,5 @@
+![Meetup](https://github.com/DiSCoBGU/Preprocessing/blob/master/meet2.png)
+
 For the Second meetup on 8th April
 
 ## Let's refine the model and get more insights
