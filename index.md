@@ -12,7 +12,7 @@ For the Second meetup on 8th April
 
 
 ### Material
-* [Presentation](https://) Coming soon <img src="https://cdn2.iconfinder.com/data/icons/picons-basic-3/57/basic3-019_presentation_keynote-512.png" height="24">
+* [Presentation](https://github.com/DiSCoBGU/Preprocessing/blob/master/DiSCo-Week2.pdf) Coming soon <img src="https://cdn2.iconfinder.com/data/icons/picons-basic-3/57/basic3-019_presentation_keynote-512.png" height="24">
 * The Talk Video <img src="https://cdn3.iconfinder.com/data/icons/unicons-vector-icons-pack/32/youtube-24.png"> [Coming soon](https://) [0 min]
 * [Coming soon](https://) a kaggle kernel
 
